@@ -4,7 +4,10 @@ import {View, Text, StyleSheet} from 'react-native';
 const App = () => {
   return (
     <View style={styles.container}>
-      <Text>App</Text>
+      <Text>AMee Nimavat</Text>
+      <Text>AMee Nimavat</Text>
+      <Text>AMee Nimavat</Text>
+      <Text>AMee Nimavat</Text>
     </View>
   );
 };
